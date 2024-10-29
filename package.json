@@ -1,0 +1,23 @@
+{
+  "name": "svgchallenge10",
+  "version": "1.0.0",
+  "description": "To run this application, ensure you have Node.js installed, and then run the following commands in your terminal:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
